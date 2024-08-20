@@ -1,0 +1,52 @@
+html{
+    background-color: rgb(238, 238, 238);
+}
+div.flex-container> div
+{
+    margin: 12px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    box-shadow: 0 0 10px #d6d6d6;
+    
+}
+
+.flex-container{ 
+    display: flex;
+    height: 150%;
+    flex-direction: row;
+    margin-top: 100px;
+}
+
+.left{
+    width: 30%;
+    font-size: 20;
+
+}
+
+.center{
+    width: 50%;
+}
+
+.right{
+    width: 20%;
+}
+header{
+    width: 100%; 
+    height: 10%;    
+    background-color: #ff00d4;
+    border-color: color-mix(75, color 20%, color 20%);
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 1px 4px 5px #b9b9b9;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 40;
+    margin-left: 20px;
+}
+
+h3{
+    color:rgb(156, 0, 122) ;
+}
