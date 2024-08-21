@@ -24,8 +24,8 @@ div.flex-container> div
 
 }
 
-.center{
-    width: 50%;
+.center-div{
+    width: 30%;
 }
 
 .right{
@@ -55,9 +55,10 @@ main>div{
     background-color: #ffffff;
     border-radius: 4px;
     height: 85%;
-    width: 85%;
+    width: 90%;
     margin: 50px;
     box-shadow: 0 0 1px #b9b9b9;
     border:1px solid#e7e7e7
 }
+
 
